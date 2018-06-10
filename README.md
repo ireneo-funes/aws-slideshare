@@ -1,2 +1,6 @@
 # aws-slideshare
-List of SlideShare documents about AWS seminars
+
+List of [SlideShare](https://www.slideshare.net/) documents about
+[AWS](https://aws.amazon.com/) seminars
+
+- [AWSome day](./AWSomeday.md)
