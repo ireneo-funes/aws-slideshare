@@ -5,3 +5,4 @@ List of [SlideShare](https://www.slideshare.net/) documents about
 
 - [AWSome day](./AWSomeday.md)
 - [Cloud Migration](./CloudMigration.md)
+- [Internet of Things](./IoT.md)
