@@ -6,3 +6,6 @@ List of [SlideShare](https://www.slideshare.net/) documents about
 - [AWSome day](./AWSomeday.md)
 - [Cloud Migration](./CloudMigration.md)
 - [Internet of Things](./IoT.md)
+
+## External links
+- [Amazon Web Services Korea tagged "aws-summit-seoul-2018"](https://www.slideshare.net/awskorea/tag/aws-summit-seoul-2018)
